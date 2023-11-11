@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(to right, #7bd3bd,rgb(0, 184, 129));
+}
+.footer a img{
+    width: 30px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+}
+
+.donasi-section{
+    padding-top: 22px;
+}
+
+#contact h2{
+    padding-top: 80px;
+}
